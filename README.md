@@ -36,8 +36,7 @@ A desktop weather application built with C# and .NET that provides real-time wea
 
  How to Use the System
  
- 1. Navigate to the Right Folder
-    - Open "Weather-App-master2".
+ 1. Download the Folder
       
 2. Launch the Application:
    - Open the project in Visual Studio and run it 
